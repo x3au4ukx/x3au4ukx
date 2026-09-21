@@ -26,4 +26,4 @@
 
 - **GitHub:** [x3au4ukx](https://github.com/x3au4ukx)
 - **Email:** [3au4ukob@gmail.com]
-- **Telegram:** [@x3au4ukx]
+- **Telegram:** [https://t.me/x3au4ukx]
