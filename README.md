@@ -22,6 +22,34 @@
 
 ---
 
+## 🚀 Избранные проекты
+
+### [Foodgram](https://github.com/x3au4ukx/foodgram) — сервис для публикации рецептов
+Полноценное веб-приложение с REST API, поиском по тегам и ингредиентам, системой подписок и формированием списка покупок.
+**Стек:** Django, DRF, PostgreSQL, Docker, Nginx, Gunicorn, GitHub Actions.
+
+### [QRkot-spreadsheets](https://github.com/x3au4ukx/QRkot-spreadsheets) — API благотворительного фонда
+Сервис с автоматическим распределением пожертвований (FIFO) и генерацией Excel-отчётов с загрузкой на Яндекс.Диск.
+**Стек:** FastAPI, Async SQLAlchemy, Alembic, JWT, Яндекс.Диск API.
+
+### [Kittygram](https://github.com/x3au4ukx/kittygram_final) — соцсеть для любителей котиков
+Веб-приложение с API для создания профилей питомцев, загрузки фото и поиска.
+**Стек:** Django, DRF, PostgreSQL, Docker, CI/CD.
+
+### [Yatube API](https://github.com/x3au4ukx/api-final-yatube) — REST API блоговой платформы
+API с постами, комментариями, подписками и сообществами. Полный CRUD с проверкой прав доступа.
+**Стек:** Django, DRF, PostgreSQL.
+
+### [YaCut](https://github.com/x3au4ukx/async-yacut) — сервис укорачивания ссылок
+Веб-сервис для генерации коротких ссылок и асинхронной загрузки файлов на Яндекс.Диск.
+**Стек:** Flask, SQLAlchemy, aiohttp, WTForms.
+
+### [Python Docs Parser](https://github.com/x3au4ukx/bs4_parser_pep) — CLI-парсер документации Python
+Утилита для сбора нововведений, версий и статистики PEP с выводом в CSV и pretty-таблицы.
+**Стек:** BeautifulSoup4, requests-cache, tqdm, argparse.
+
+---
+
 ## 📫 Как со мной связаться
 
 - **GitHub:** [x3au4ukx](https://github.com/x3au4ukx)
