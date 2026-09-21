@@ -53,5 +53,5 @@ API с постами, комментариями, подписками и со�
 ## 📫 Как со мной связаться
 
 - **GitHub:** [x3au4ukx](https://github.com/x3au4ukx)
-- **Email:** 3au4ukob@gmail.com
+- **Email:** [3au4ukob@gmail.com](mailto:3au4ukob@gmail.com)
 - **Telegram:** [@x3au4ukx](https://t.me/x3au4ukx)
